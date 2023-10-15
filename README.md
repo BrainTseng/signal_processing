@@ -1,4 +1,5 @@
 # signal_processing
-Matlab for signal processing, including FFT, DFT, filtering and so on...
+Matlab for signal processing, including FFT, DFT, filtering etc.
 
-1. signal processing for audio files.
+1. Audio signal
+2. 3D MRI
